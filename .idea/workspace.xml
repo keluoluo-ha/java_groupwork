@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f659c2a-31a2-4860-94ef-90b3614c77e4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data_source_mapping.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/user-center-backend-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/.copyright" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/doc/.copyright" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/doc/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/doc/img_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/doc/img_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/doc/加入编程导航.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/sql/.author" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/sql/create_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/main/java/com/yupi/usercenter/UserCenterApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/main/java/com/yupi/usercenter/common/BaseResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/main/java/com/yupi/usercenter/common/ErrorCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/main/java/com/yupi/usercenter/common/ResultUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/main/java/com/yupi/usercenter/contant/UserConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/main/java/com/yupi/usercenter/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/main/java/com/yupi/usercenter/exception/BusinessException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/main/java/com/yupi/usercenter/exception/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/main/java/com/yupi/usercenter/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/main/java/com/yupi/usercenter/model/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/main/java/com/yupi/usercenter/model/domain/request/UserLoginRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/main/java/com/yupi/usercenter/model/domain/request/UserRegisterRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/main/java/com/yupi/usercenter/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/main/java/com/yupi/usercenter/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/main/resources/.yupi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/main/resources/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/main/resources/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/test/java/com/yupi/usercenter/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/test/java/com/yupi/usercenter/UserCenterApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-backend-master/src/test/java/com/yupi/usercenter/service/UserServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-frontend-vue/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/user-center-frontend-vue/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-frontend-vue/src/components/GlobalHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/user-center-frontend-vue/src/components/GlobalHeader.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-frontend-vue/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/user-center-frontend-vue/src/components/HelloWorld.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="37NAV19rqlckLd3Lz1174Fl6TaP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/30674/Desktop/user-center-frontend-vue-前端 vue 版",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\30674\\Desktop\\user-center-frontend-vue-前端 vue 版\\user-center-frontend-vue\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.27397.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f659c2a-31a2-4860-94ef-90b3614c77e4" name="Changes" comment="" />
+      <created>1766733174565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766733174565</updated>
+      <workItem from="1766733175971" duration="193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
