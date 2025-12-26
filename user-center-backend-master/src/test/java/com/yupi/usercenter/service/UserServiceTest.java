@@ -1,6 +1,6 @@
 package com.yupi.usercenter.service;
 
-// [编程学习交流圈](https://www.code-nav.cn/) 连接万名编程爱好者，一起优秀！20000+ 小伙伴交流分享、40+ 大厂嘉宾一对一答疑、100+ 各方向编程交流群、4000+ 编程问答参考
+
 
 import com.yupi.usercenter.model.domain.User;
 import org.junit.jupiter.api.Assertions;
@@ -12,8 +12,7 @@ import javax.annotation.Resource;
 /**
  * 用户服务测试
  *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+
  */
 @SpringBootTest
 public class UserServiceTest {
