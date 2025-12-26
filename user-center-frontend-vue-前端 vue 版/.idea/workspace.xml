@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1948d758-909e-465c-b6e4-59a02b15eea5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/user-center-frontend-vue/src/pages/admin/UserMangePage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-frontend-vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/user-center-frontend-vue/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-frontend-vue/src/access.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-frontend-vue/src/components/GlobalHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/user-center-frontend-vue/src/components/GlobalHeader.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-frontend-vue/src/layouts/BasicLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/user-center-frontend-vue/src/layouts/BasicLayout.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-frontend-vue/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/user-center-frontend-vue/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-frontend-vue/src/pages/admin/UserManagePage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-frontend-vue/src/pages/user/UserLoginPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/user-center-frontend-vue/src/pages/user/UserLoginPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-frontend-vue/src/request.ts" beforeDir="false" afterPath="$PROJECT_DIR$/user-center-frontend-vue/src/request.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-frontend-vue/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/user-center-frontend-vue/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center-frontend-vue/src/store/useLoginUserStore.ts" beforeDir="false" afterPath="$PROJECT_DIR$/user-center-frontend-vue/src/store/useLoginUserStore.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="Vue Composition API Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/user-center-frontend-vue" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="35TXTCJhgUHeHytZRWh0ibWkf75" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/30674/Desktop/user-center-frontend-vue-前端 vue 版&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.build.executor&quot;: &quot;Run&quot;,
+    &quot;npm.serve.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\30674\\Desktop\\user-center-frontend-vue-前端 vue 版\\user-center-frontend-vue\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/user-center-frontend-vue/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/user-center-frontend-vue/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.27397.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1948d758-909e-465c-b6e4-59a02b15eea5" name="Changes" comment="" />
+      <created>1763135040675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763135040675</updated>
+      <workItem from="1763135041924" duration="415000" />
+      <workItem from="1763135505668" duration="163000" />
+      <workItem from="1763135692431" duration="2992000" />
+      <workItem from="1763189346594" duration="5851000" />
+      <workItem from="1763471618409" duration="27000" />
+      <workItem from="1763471647232" duration="28000" />
+      <workItem from="1763471705740" duration="135000" />
+      <workItem from="1763471863958" duration="669000" />
+      <workItem from="1763472576963" duration="1603000" />
+      <workItem from="1763474219478" duration="1097000" />
+      <workItem from="1763475544028" duration="10028000" />
+      <workItem from="1763556864004" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
